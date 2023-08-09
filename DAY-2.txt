@@ -1,0 +1,24 @@
+Supervised Learning:
+CSV format
+independent -> X(input)
+dependent -> y (output)
+y=(X1,X2) (y is dependent upon X )
+clean data -> data fed to make the impure data of csv format clean  
+
+Linear algebra :
+equation of straight line => y=mx+c
+where,
+y-> predicted output(to be found)(dependent variable)
+m-> slope (relation between x and y)
+x-> input feature or input provided(independent variable)
+c-> y intercept
+
+Linear regression:
+application-> age of a person, stockprice prediction, weather prediction, house price prediction, sales prediction
+hypothesis->  actual data- predicted data
+bias,coefficient,cost function etc
+
+classification regression
+
+Unsupervised Learning:
+eg; generative AI
